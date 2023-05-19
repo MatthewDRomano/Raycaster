@@ -27,7 +27,7 @@ Java
 - [ ] Sprites / Enemies
 - [ ] See-through windows
 - [ ] Interactable Entities
-- [ ] 
+
 ## Controls
 | Key | Function |
 | --- | -------- |
