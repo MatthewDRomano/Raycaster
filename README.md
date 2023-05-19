@@ -6,7 +6,7 @@
 ## Description
 This is a basic Raycaster that I hope to turn into a playable game. it is still in early developement.
 
-##Language
+## Language
 Java
 
 ## Features
@@ -27,6 +27,7 @@ Java
 - [ ] Sprites / Enemies
 - [ ] See-through windows
 - [ ] Interactable Entities
+- [ ] 
 ## Controls
 | Key | Function |
 | --- | -------- |
@@ -38,5 +39,6 @@ Java
 |  E  |Look Right|
 |  F  | Interact |
 |  M  | Flip View|
+
 ## Credit
-Inspired by [Sage3d's Raycaster Tutorial] (https://www.youtube.com/watch?v=gYRrGTC7GtA&t=455s)
+Inspired by [Sage3d's Raycaster Tutorial](https://www.youtube.com/watch?v=gYRrGTC7GtA&t=455s)
