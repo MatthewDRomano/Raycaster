@@ -11,6 +11,7 @@ Java
 
 ## Features
 - [x] 2D Map Visualization
+- [x] Dynamically adjustable map
 - [x] Accurate Ray-Casting Mathmatics
 - [x] 3D Projection
 - [x] Toggle Between the two views 
