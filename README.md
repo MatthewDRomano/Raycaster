@@ -21,7 +21,7 @@ Java
 - [x] Dynamic game-window size based on screen size
 - [x] Accurate Perspective with drawing walls
 - [x] Customizable textures
-- [ ] Mouse-Oriented Camera Movement
+- [ ] Mouse-Dictated Camera Movement
 - [ ] Custom Floor / Ceiling Textures
 - [ ] Random Map generation
 - [ ] Sprites / Enemies
