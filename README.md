@@ -23,6 +23,7 @@ Java
 - [x] Accurate Perspective with drawing walls
 - [x] Customizable textures
 - [ ] Mouse-Dictated Camera Movement
+- [ ] Close Doors
 - [x] Custom Floor / Ceiling Textures
 - [ ] Random Map generation
 - [ ] Sprites / Enemies
