@@ -2,7 +2,8 @@
 
 ![image](https://github.com/MatthewDRomano/Raycaster/assets/120230187/39ce25da-e2f5-4835-8efd-61478ff2dd46)
 ![image](https://github.com/MatthewDRomano/Raycaster/assets/120230187/621caaa7-a23f-48d2-9d6e-8bd653eaa7ae)
-![image](https://github.com/MatthewDRomano/Raycaster/assets/120230187/59bad204-d30d-42a4-bf1b-04c1c5d2ae65)
+![image](https://github.com/MatthewDRomano/Raycaster/assets/120230187/b1a0812d-0711-44ec-aa7f-32943baf0db6)
+
 ## Description
 This is a basic Raycaster that I hope to turn into a playable game. it is still in early developement.
 
