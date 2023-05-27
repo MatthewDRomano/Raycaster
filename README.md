@@ -30,6 +30,7 @@ Java
 - [ ] Sprites / Enemies
 - [ ] See-through windows
 - [ ] Interactable Entities
+- [ ] Hotbar / UI
 
 ## Controls
 | Key | Function |
