@@ -12,7 +12,6 @@ public class Gui{
         Player p = new Player(new Point(200,300));   
         Map m = new Map(512, p);//gets divided by 8
 
-        
 
         screen.add(p);
         m.setBounds(0,0, (int)screenSize.getWidth(), (int)screenSize.getHeight());
@@ -21,6 +20,7 @@ public class Gui{
         gui.addKeyListener(new KeyListenerMod(p, m));
         gui.setVisible(true);
 
+        int doorCount = 0;
         ActionListener taskPerformer = new ActionListener() //trig may be wrong
         {
             int[][] map = m.getMap();
