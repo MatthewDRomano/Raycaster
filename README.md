@@ -31,6 +31,7 @@ Java
 - [ ] See-through windows
 - [ ] Interactable Entities
 - [ ] Hotbar / UI
+- [ ] Performance Optimization
 
 ## Controls
 | Key | Function |
